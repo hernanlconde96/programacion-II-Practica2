@@ -1,4 +1,4 @@
-# Practica-1-INF-121
+# Practica-2-INF-121
 
 **Nombre:** HERNAN LEONEL CONDE AJATA  
 **CI:** 4939770  
